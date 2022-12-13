@@ -1,4 +1,4 @@
-# mms142-groupa-2022
+# Home Page
 MMS 142 Group A 2022 Repository 
 
 Hi team, just because we're all new to using github, our code will be in the "e-commerce code" page (it should be above this readme)
