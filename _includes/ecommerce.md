@@ -127,14 +127,14 @@
                      </li>
                         <ul>
                         <li>
-                            <h3>Unguaranteed Product Quality </h4>
+                            <h4>Unguaranteed Product Quality </h4>
                             <p> 
                                 "insert infos"
                             </p>
                         </li>
                         <li>
                             <h4>
-                                2. Data Breaches and Hacks
+                              Data Breaches and Hacks
                             </h4>
                             <p>
                                 "insert infos"
