@@ -79,7 +79,8 @@
                     </div>
                 </div>
             </div>
-              <div class="margin-left:20em;margin-right:20em;">   
+        <br><br><br><br><br><br><br>
+            <div class="margin-left:20em;margin-right:20em;">   
                   <hr>
                 <h3>
                     Advantages and Disadvantages
