@@ -9,7 +9,8 @@
                </div>
             </div>
         </div>
-    <div>
+    
+<div>
          <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
                 <h3>
                 How does it works?
@@ -21,37 +22,42 @@
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
                 <p class="text-faded">
                 "insert infos"
-            </p>
-            </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">  
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
+                </p>
+        </div>  
+ </div>
+    
+ <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">  
+           <div class="item col-md-3 p-2">
+                <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
                         <img src="insert images" alt="">
                         <p>
                             "insert infos"
                         </p>
-                    </div>
                  </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
+            </div>
+         
+            <div class="item col-md-3 p-2">
+                 <div class="card h-100">
                         <h6> Business to Business (B2B) </h6>
                         <img src="insert image" alt="">
                         <p>
                             "insert infos"
                         </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
+                  </div>
+             </div>
+     
+             <div class="item col-md-3 p-2">
+                  <div class="card h-100">
                         <h6> Business to Government (B2G) </h6>
                         <img src="insert image" alt="">
                         <p>
                             "insert infos"
                         </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
+                   </div>
+              </div>
+     
+              <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Consumer (C2C) </h6>
                         <img src="insert image" alt="">
@@ -59,8 +65,9 @@
                             "insert infos"
                         </p>
                     </div>
-                </div>
-                <div class="item col-md-3 p-2">
+               </div>
+     
+               <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Business (C2B) </h6>
                         <img src="insert image" alt="">
@@ -69,6 +76,7 @@
                         </p>
                     </div>
                 </div>
+     
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Government (C2G) </h6>
@@ -78,9 +86,10 @@
                         </p>
                     </div>
                 </div>
-            </div>
+  </div>
         <br><br><br><br><br><br><br>
-            <div class="margin-left:20em;margin-right:20em;">   
+    
+ <div class="margin-left:20em;margin-right:20em;">   
                   <hr>
                 <h3>
                     Advantages and Disadvantages
@@ -158,9 +167,8 @@
                             </p>
                         </li>
                     </ul>
-                </div>
-            </div>
-        </div> 
+  </div> 
+     
           <div class="col-lg-8 col-lg-offset-2 text-center">
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
           </div>                                                
