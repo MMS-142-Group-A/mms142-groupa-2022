@@ -1,6 +1,3 @@
-<style>
-        p{text-align: justify;}
-    </style>
 
 <section class="no-padding" id="sources">
          <aside class="bg-dark">
