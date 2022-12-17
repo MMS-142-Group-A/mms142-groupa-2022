@@ -2,7 +2,7 @@
          <aside class="bg-dark">
       <div class="container text-center">
           <div class="call-to-action">
-		  <h1>Conclusion</h1>
+		  <h2>Conclusion</h2>
 		 <br>
 <p>Our world today revolves closer and closer to the Internet and it's communities. Why wouldn't it? Having the knowledge of the world at the palm of your hands is mind boggling. From there innovations continue to arise one after another and tied with them are disruptions that morph known technologies.
 				  
